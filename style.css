@@ -29,7 +29,7 @@ h1 {
     }
     }
 
-    @media (min-width: 900px) or (max-height: 500px) {
+    @media (min-width: 900px) or (min-height: 500px) {
         #two{
             border-top: 10px solid gray;
         }
